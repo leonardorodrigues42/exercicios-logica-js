@@ -1,0 +1,7 @@
+num1;num2;i;i < num1.length;soma antes;soma depois
+4;6;0;true;0;6
+4;6;1;true;6;12
+4;6;2;true;12;18
+4;6;3;true;18;24
+;;;;;
+;;;;;
